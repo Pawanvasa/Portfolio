@@ -9,7 +9,14 @@ export const ABOUT_TEXT = `I am a dedicated full stack .NET developer with a pas
 
 export const EXPERIENCES = [
   {
-    year: "2022 - Present",
+    year: "2025 - Present",
+    role: "Software Engineer",
+    company: "Simform",
+    description: `Working as a full stack .NET developer, leading backend and frontend development on various projects. Implemented secure APIs, database integration, and improved system performance.`,
+    technologies: ["C#", ".NET Core", "React", "MS SQL", "Docker", "Azure cloud","Grafana","Corologix"],
+  },
+  {
+    year: "2022 - 2025",
     role: "Software Engineer",
     company: "Coditas",
     description: `Worked as a full stack .NET developer, leading backend and frontend development on various projects. Implemented secure APIs, database integration, and improved system performance.`,
@@ -56,7 +63,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Pune, Maharashtra, India",
+  address: "Bangalore, Karnataka, India",
   phoneNo: "+91 9553107121",
   email: "vasapawan23@gmail.com",
 };
